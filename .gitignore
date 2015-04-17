@@ -1,0 +1,14 @@
+# ignore all file
+# /*
+
+# ignore startwith . file
+/.*
+
+*.txt
+*.pyc
+
+# manage file
+!README.md
+!.gitignore
+!*.py
+!*.cpp
